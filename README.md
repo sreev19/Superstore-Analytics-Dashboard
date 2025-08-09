@@ -31,8 +31,8 @@ This project presents a comprehensive sales and performance analysis for a ficti
 
 ## 📌 Tools Used
 
-- Power BI / Tableau (for visualization)
-- Excel/CSV data source (assumed)
+- Power BI 
+- Excel data source 
 - Business Intelligence principles
 
 ## 📈 Objective
